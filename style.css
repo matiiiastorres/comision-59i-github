@@ -1,0 +1,13 @@
+#card4{
+    background-color: aquamarine;
+
+
+
+}
+@media(min-width:1000px) and ( max-width:1233px){
+    #card4{
+        display: none;
+    }
+
+    
+}
